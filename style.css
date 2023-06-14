@@ -16,6 +16,7 @@ body {
 
 .userCard {
   width: 200px;
+  margin-bottom: 25px;
 }
 
 h4 {
@@ -25,4 +26,8 @@ h4 {
 
 nav-item {
   margin-left: 20px;
+}
+
+.bi {
+  padding: 10px;
 }
